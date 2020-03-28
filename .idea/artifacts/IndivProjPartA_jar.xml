@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IndivProjPartA:jar">
+    <output-path>$PROJECT_DIR$/target/artifacts/IndivProjPartA_jar</output-path>
+    <root id="archive" name="IndivProjPartA.jar">
+      <element id="module-output" name="IndivProjPartA" />
+    </root>
+  </artifact>
+</component>
